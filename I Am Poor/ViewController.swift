@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  I Am Poor
 //
-//  Created by Angela Yu on 24/08/2016.
-//
+//  Created by Pierre on 02/11/2016.
+//  Copyright © 2016 Pierre Papet. All rights reserved.
 //
 
 import UIKit
